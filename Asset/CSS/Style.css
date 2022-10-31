@@ -87,8 +87,8 @@ main {
 }
 
 main img {
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     grid-area: area1;
     display: grid;
     padding: 5px;
