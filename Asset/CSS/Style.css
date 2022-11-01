@@ -90,8 +90,8 @@ main {
 }
 
 main img {
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 400px;
     grid-area: area1;
     display: grid;
     padding: 5px;
@@ -100,7 +100,7 @@ main img {
 
 .about {
     grid-area: area2;
-    font-size: 22px;
+    font-size: 40px;
     font-style: italic;
     padding: 50px;
     background: var(--secondary-color);
@@ -108,7 +108,7 @@ main img {
 
 .work {
     grid-area: area3;
-    font-size: 22px;
+    font-size: 40px;
     font-style: italic;
     padding: 60px;
     background: var(--secondary-color);
@@ -125,14 +125,14 @@ aside {
 }
 
 aside img {
-    width: 180px;
-    height: 180px;
+    width: 240px;
+    height: 240px;
 }
 
 .Community-support {
     background-color: var(--secondary-color);
     grid-area: area5;
-    font-size: 22px;
+    font-size: 40px;
     font-style: italic;
     text-decoration: none;
     text-align: center;
@@ -143,7 +143,7 @@ aside img {
 .contact {
     background-color: var(--secondary-color);
     grid-area: area6;
-    font-size: 22px;
+    font-size: 40px;
     font-style: italic;
     text-decoration: none;
     text-align: center;
@@ -154,7 +154,6 @@ aside img {
 footer {
     grid-area: area7;
     text-align: center;
-    background: var(--third-color);
     color: var(--primary-color);
 }
 
