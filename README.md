@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tim Barista Portfolio 
 
 Set up for future success by applying the core skills recently learned: flexbox, media queries, and CSS variables.
@@ -21,3 +22,10 @@ https://phitrongtuanthanh.github.io/Tim-Barista-Portfolio/
 # Screenshot
 
 <img src="Asset/Images/Screenshot 2022-11-15 at 12.46.39.png">
+=======
+# Challenge_02
+
+<!-- Add description, screenshot of your application and a link to the github pages -->
+
+https://phitrongtuanthanh.github.io/Tim-Barista-Portfolio/
+>>>>>>> ecc3dfdef3bac601398c32ef5c1b503e28292104
